@@ -1,5 +1,5 @@
-Hey 👋 What's up
-Weather using fetch API
+Hey 👋 What's up <br>
+ new one Weather using fetch API simple project 
 
 Demo :[ https://restcountries-weather-by-fetch-api.netlify.app](https://jazzy-pudding-2aaa4b.netlify.app/)
 
